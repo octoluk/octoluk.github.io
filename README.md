@@ -1,23 +1,19 @@
-{
-  "readmeUrl": // octoluk.github.io
-  "title": // octoluk
-  "name": // luke gabriel
-  "ascii": // ascii art to display
-  "social": {
-    "github": // your handle
-    "linkedin": // your handle
-  },
-  "email": // realrdrgames@gmail.com
-  "ps1_hostname": "liveterm" // hostname in prompt
-  "ps1_username": "visitor", // username in prompt
-  "resume_url": "../resume.pdf", // path to your resume
-  "non_terminal_url": "W",
-  "colors": {
-    "light": {
-      ...
-    },
-    "dark": {
-      ... // you can use existing templates in themes.json or use your own!
-    }
-  }
-}
+my discord server is https://discord.gg/9cqEChKb 
+
+my youtube channel is https://www.youtube.com/channel/UC4y05xQRCHjbKESzy1FXhDA
+
+what i do   i make custom keyboards and i play minecraft bedwars and play on other pvp servers.  you can buy my keyboards and gaming mice for drag clicking so if you are intrested go to my trade me page.
+
+my trade me page    https://www.trademe.co.nz/members/feedback.aspx?member=8213190&bof=RRnZOVh8.
+
+have a good day
+
+regards octoluk
+
+luk,
+
+
+contact
+discord:  bready#9269  
+
+email  realrdrgames@gmail.com 
